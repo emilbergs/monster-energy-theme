@@ -1,0 +1,53 @@
+{
+    "name": "monster-energy-theme",
+    "displayName": "Monster Energy Theme",
+    "description": "VS Code themes inspired by Monster Energy drinks - featuring clean White Ultra and classic Green themes",
+    "version": "0.0.1",
+    "publisher": "emilbergs",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "color-theme",
+        "dark theme",
+        "light theme",
+        "monster",
+        "white",
+        "green",
+        "ultra",
+        "energy",
+        "monster energy",
+        "monster energy theme",
+        "monster energy ultra",
+        "monster energy green",
+        "monster energy white",
+        "monster energy ultra white",
+        "monster energy green ultra"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monster Energy - White",
+                "uiTheme": "vs",
+                "path": "./themes/white-monster-color-theme.json"
+            },
+            {
+                "label": "Monster Energy - Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/green-monster-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/emilbergs/monster-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/emilbergs/monster-theme/issues"
+    },
+    "homepage": "https://github.com/emilbergs/monster-theme#readme"
+}
