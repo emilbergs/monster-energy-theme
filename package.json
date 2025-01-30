@@ -2,7 +2,7 @@
     "name": "monster-energy-theme",
     "displayName": "Monster Energy Theme",
     "description": "VS Code themes inspired by Monster Energy drinks - featuring clean White Ultra and classic Green themes",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "emilbergs",
     "engines": {
         "vscode": "^1.0.0"
