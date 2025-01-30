@@ -2,6 +2,16 @@
 
 A Visual Studio Code theme inspired by Monster Energy drinks, featuring two distinct themes:
 
+## Preview
+
+### Monster Energy Original
+
+![Monster Energy Theme](images/monster-energy-preview.png)
+
+### Monster Energy Ultra Zero
+
+![Monster Ultra Theme](images/monster-ultra-preview.png)
+
 ## Monster Energy Ultra Zero Theme
 
 Clean, crisp, and refreshing - perfect for daylight coding with:
@@ -36,23 +46,8 @@ Classic Monster Energy-inspired dark theme featuring:
 3. Search for "Monster Energy Theme"
 4. Click Install
 5. Press Ctrl+K Ctrl+T and select either:
-   - "Monster Energy - Ultra"
    - "Monster Energy - Green"
-
-## Screenshots
-
-![White Monster Theme](images/white-monster-preview.png)
-![Green Monster Theme](images/green-monster-preview.png)
-
-## Preview
-
-### Monster Energy Ultra Zero
-
-![Monster Ultra Theme](images/monster-ultra-preview.png)
-
-### Monster Energy Original
-
-![Monster Energy Theme](images/monster-energy-preview.png)
+   - "Monster Energy - Ultra"
 
 ## Contributing
 
