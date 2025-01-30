@@ -2,7 +2,7 @@
     "name": "monster-energy-theme",
     "displayName": "Monster Energy Theme",
     "description": "VS Code themes inspired by Monster Energy drinks - featuring clean White Ultra and classic Green themes",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "publisher": "emilbergs",
     "engines": {
         "vscode": "^1.0.0"
@@ -49,5 +49,22 @@
     "bugs": {
         "url": "https://github.com/emilbergs/monster-theme/issues"
     },
-    "homepage": "https://github.com/emilbergs/monster-theme#readme"
+    "homepage": "https://github.com/emilbergs/monster-theme#readme",
+    "galleryBanner": {
+        "color": "#1a1a1a",
+        "theme": "dark"
+    },
+    "icon": "images/icon.png",
+    "badges": [
+        {
+            "url": "https://img.shields.io/visual-studio-marketplace/v/emilbergs.monster-energy-theme",
+            "href": "https://marketplace.visualstudio.com/items?itemName=emilbergs.monster-energy-theme",
+            "description": "VS Code Marketplace Version"
+        },
+        {
+            "url": "https://img.shields.io/visual-studio-marketplace/d/emilbergs.monster-energy-theme",
+            "href": "https://marketplace.visualstudio.com/items?itemName=emilbergs.monster-energy-theme",
+            "description": "VS Code Marketplace Downloads"
+        }
+    ]
 }
